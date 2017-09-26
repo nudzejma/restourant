@@ -1,0 +1,26 @@
+Prirodno � matemati�ki fakultet u Sarajevu,
+Odsjek za matematiku, TKN
+Uvod u web dizajn
+Tim: Lejla i Nudžejma		
+
+Plan projekta
+Naziv projekta: CarpeDiem
+Projekat:  Razvoj web stranice za restoran
+Datum izrade: Izrada projekta po�inje naredne sedmice, dok se zavr�etak prve faze o�
+ekuje polovinom semestra, te sam zavr�etak projekta krajem semestra.
+Nakon prve faze, stranica bi imale neke osnovne informacije o samom restoranu, ponudi 
+i zaposlenicima. Usavr�avanje projekta tokom semestra bi se odnosilo na pobolj�anju jednostavnosti 
+upotrebe stranice od strane korisnika, kao i dodavanju drugih sadr�aja i doga�aja restorana.
+Ideja samog projekta poti�e iz ljubavi prema kuhanju, pa je stoga za temu odabrana promocija 
+jednog, trenutno izmi�ljenog, restorana, a sami cilj jeste obezbijediti korisnicima sve 
+dostupne informacije vezane za restoran, hranu koja je tu dostupna i lahak na�in naru�ivanja.
+Ciljna grupa ovog projekta bi bile sve osobe zainteresovane za dati restoran.
+Ova stranica je prvenstveno bitna zbog promocije i dono�enja publiciteta restoranu. 
+Zatim, ovom stranicom se korisniku obezbje�uje ponuda restorana unaprijed na osnovu 
+koje on odlu�uje da li �e do�i ili ne, kao i iskoristiti online naru�ivanje koje mu
+se pru�a. Neovisnost o dobi korisnika je ne�to �to ovu stranicu izdvaja od drugih.
+U budu�nosti bi voljeli dopuniti stranicu i �lancima slavnih nutricionista koji bi korisnicima 
+pomogli i obratili im pa�nju na va�nost pravilne ishrane. Zatim, otkrili bi i neke od tajni 
+svojih kuhara koje bi i korisnici mogli iskorisiti i u svojim ku�ama, �to bi uve�alo 
+vrijednost ove stranice za 2 godine, dok bi u daljem periodu poku�ali ostvariti i neku
+interakciju sa korisnicima. 
